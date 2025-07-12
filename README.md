@@ -86,9 +86,9 @@ Emotion-reflection-tool-internship/
 
 ## 📸 Preview
 
-> _Coming soon!_
+![App Screenshot](./## 📸 Preview
 
----
+![App Screenshot](./screenshot.png)
 
 ## 📃 License
 
