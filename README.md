@@ -83,12 +83,11 @@ Emotion-reflection-tool-internship/
 4. The frontend displays the response dynamically.
 
 ---
-
 ## 📸 Preview
 
-![App Screenshot](./## 📸 Preview
+<img width="1423" height="775" alt="Screenshot 2025-07-12 at 9 01 44 PM" src="https://github.com/user-attachments/assets/e369a26b-4261-4330-a81a-2be5464e222e" />
 
-![App Screenshot](./screenshot.png)
+
 
 ## 📃 License
 
