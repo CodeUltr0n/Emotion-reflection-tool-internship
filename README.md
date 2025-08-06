@@ -4,6 +4,9 @@ This is a simple full-stack web application built for an internship assignment. 
 
 ---
 
+
+<pre>
+```bash
 ## 📁 Project Structure
 Emotion-reflection-tool-internship/
 │
@@ -12,6 +15,9 @@ Emotion-reflection-tool-internship/
 │
 ├── backend/           # Flask backend
 │   └── app.py         # API for analyzing user input
+```
+</pre>
+
 
 ---
 
